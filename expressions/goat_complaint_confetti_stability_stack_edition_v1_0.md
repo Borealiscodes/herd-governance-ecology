@@ -24,13 +24,10 @@ herd-governance-ecology/
 
 ---
 
-```
-
----
 
 # 🐐🌈 **Regenerated Artifact (Proper Repository Version)**
 
-```
+---
 SID-Header:
   Artifact-Class: Complaint-Confetti
   Activation: NONE
@@ -38,7 +35,7 @@ SID-Header:
   Domain: Goats
   Version: 1.0
   Machine-Readable: TRUE
-```
+---
 
 ---
 
