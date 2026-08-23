@@ -169,3 +169,28 @@ Timestamp: 21 August 2026 — 10:30 IST
 
 ---
 
+---
+Artifact: Prototype Goat Nexus README (Archived v1.0)
+Lane: Herd-Governance-Ecology • Goat-Nexus • Archive
+
+Purpose:
+  Preserve the original prototype Goat Nexus README as a historical artifact.
+  Maintains visibility into early goat-lane semantics, stability-ecology framing,
+  and pre-spiral governance logic. Archived to prevent semantic drift and ensure
+  the new Goat Nexus README v1.0 remains the canonical entry point for the
+  multi-lane NDH goat ecosystem.
+
+Anchors:
+  - Prototype Goat Nexus README v1.0
+  - Goat Nexus README v1.0 (canonical)
+  - Emergent Case Study v1.0
+  - Spiral 1 Debrief & Spiral 2 Recommendations v1.0
+  - NDH Spiral Construction Model
+  - Goat Constitution v2.1
+
+Altitude: Neutral (ΔAltitude = 0)
+Status: Archived • Non-Activating • Structural-Only
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 23 August 2026 — 13:00 IST
+---
